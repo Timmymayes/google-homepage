@@ -1,0 +1,45 @@
+
+
+div {
+	border: red 1px solid;
+	height: 100px;
+
+}
+
+img.center {
+	display: block;
+	width: 400px;
+	height: 125px;
+	margin: 0 auto;
+}
+
+#nav {
+	height: 50px;
+	text-align: right;
+	
+}
+
+#doodle {
+	height: 125px;
+}
+
+li.nav {
+	padding: 5px;
+	display: inline-table;
+	vertical-align: middle;
+}
+
+img.nav {
+	height: 25px;
+	width: 25px;
+	margin-top: 5px;
+}
+input {
+	display: block;
+	width: 500px;
+	height: 30px;
+	margin: 0 auto;
+
+	background: url(images/mic.png) 7px 7px;	
+
+}
